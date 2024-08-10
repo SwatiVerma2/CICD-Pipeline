@@ -13,8 +13,4 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose
-
-test
-
-Note: Tutorial from TrainWithShubham channel.
+# Note: Tutorial from TrainWithShubham channel.
